@@ -12,7 +12,7 @@ description: Revisione di una pratica o di un documento prima dell'invio (preven
 1. **Leggi integralmente** il documento e gli allegati. Se mancano documenti richiamati, elencali come "Dato non disponibile".
 2. **Ricostruisci** soggetti, date, importi, accordi. Distingui fatti accertati, dichiarati, ipotesi, valutazioni.
 3. **Passaggio 1 (CRITICO)**, nell'ordine:
-   - **Identità**: ragione sociale, sede, P.IVA coerenti in ogni pagina. Edelfeuer Srl (Via Noncello 21, Pordenone) ≠ Holzackt d.o.o. (Izola): è l'unica d.o.o. da indicare, esiste una seconda società con denominazione quasi identica e P.IVA diversa. Marchio corretto (Alpen Pellet, Alpenfire® Professional/Deluxe, Holzackt Plus Pellet).
+   - **Identità**: ragione sociale, sede, P.IVA coerenti in ogni pagina. Edelfeuer Srl (Via Noncello 21, Pordenone, domiciliata presso Garamond Consulting Srl: stesso indirizzo, non è un errore) ≠ Holzackt d.o.o. (Izola): è l'unica d.o.o. da indicare, esiste una seconda società con denominazione quasi identica e P.IVA diversa. Marchio corretto (Alpen Pellet, Alpenfire® Professional/Deluxe, Holzackt Plus Pellet).
    - **Importi**: ricalcola imponibile, IVA, contributi, imposte, totale; verifica aliquote; nessun arrotondamento non dichiarato; il totale del testo coincide con tabelle e allegati.
    - **Date e termini**: decorrenza, scadenza, preavviso, recesso; periodi coincidenti tra documenti collegati (competenza, cassa, esercizio). Norme, CCNL, aliquote e scadenze vanno verificate su fonte aggiornata, altrimenti "Aspetto da verificare".
    - **Propagazione**: se un dato è stato cambiato (importo, data, denominazione), controllalo in *tutti* i documenti che lo riportano, anche fuori dalla modifica.
